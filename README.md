@@ -27,3 +27,13 @@ Outcome of each model:
    - The model using SMOTEENN was accurate 63.75% of the time. The model had a very low precision score of 1% for high risk credit risk and was able to correctly identify 70% of high credit risk.  Following is the imbalanced classification report.
 
 ![](/Resources/combination.png)
+
+ - Balanced Random Forest 
+   - The model using the balanced random forest classifier was accurate 78.78% of the time. The model had a precision score of 4% for high risk credit risk and was able to correctly identify 67% of high credit risk.  Following is the imbalanced classification report.
+
+![](/Resources/Balanced RandomForest.png)
+
+ - Easy Ensemble Classifer
+   - The model using the easy ensemble classifier was accurate 92.54% of the time. The model had a precision score of 7% for high risk credit risk and was able to correctly identify 91% of high credit risk.  Following is the imbalanced classification report.
+
+![](/Resources/Adaboost.png)
