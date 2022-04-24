@@ -9,6 +9,6 @@ The purpose of the analysis was to predict credit card risk using data from Lend
 
 Outcome of each model:
  - Random Oversampling
-  - The accuracy score was 63.67%, precision score was very low at only 1% and the recall was 62%.
+   - The accuracy score was 63.67%, precision score was very low at only 1% and the recall was 62%.
 
 ![](/Resources/customers_table.png)
