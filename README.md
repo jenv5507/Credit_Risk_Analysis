@@ -9,6 +9,6 @@ The purpose of the analysis was to predict credit card risk using data from Lend
 
 Outcome of each model:
  - Random Oversampling
-   - The RandomOversampler model was accurate 63.67% of the time. The model had a very low precision score of 1% and was able to correctly identify 62% of high credit risk applications.  Following is the imbalanced classification report.
+   - The RandomOversampler model was accurate 63.67% of the time. The model had a very low precision score of 1% for high risk and was able to correctly identify 62% of high credit risk applications.  Following is the imbalanced classification report.
 
 ![](/Resources/Naive.png)
