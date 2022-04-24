@@ -31,7 +31,7 @@ Outcome of each model:
  - Balanced Random Forest 
    - The model using the balanced random forest classifier was accurate 78.78% of the time. The model had a precision score of 4% for high risk credit risk and was able to correctly identify 67% of high credit risk.  Following is the imbalanced classification report.
 
-![](/Resources/Balanced RandomForest.png)
+![](/Resources/BalancedRandomForest.png)
 
  - Easy Ensemble Classifer
    - The model using the easy ensemble classifier was accurate 92.54% of the time. The model had a precision score of 7% for high risk credit risk and was able to correctly identify 91% of high credit risk.  Following is the imbalanced classification report.
