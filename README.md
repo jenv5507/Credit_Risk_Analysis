@@ -19,11 +19,11 @@ Outcome of each model:
 ![](/Resources/SMOTE.png)
 
  - Undersampling
-   - The model using Cluster Centroids was accurate 63.03% of the time. The model had a very low precision score of 1% for high risk credit risk and was able to correctly identify 62% of high credit risk.  Following is the imbalanced classification report.
+   - The model using Cluster Centroids was accurate 51.03% of the time. The model had a very low precision score of 1% for high risk credit risk and was able to correctly identify 59% of high credit risk.  Following is the imbalanced classification report.
 
 ![](/Resources/Undersampling.png)
 
  - SMOTEENN
-   - The model using SMOTEENN was accurate 63.03% of the time. The model had a very low precision score of 1% for high risk credit risk and was able to correctly identify 62% of high credit risk.  Following is the imbalanced classification report.
+   - The model using SMOTEENN was accurate 63.75% of the time. The model had a very low precision score of 1% for high risk credit risk and was able to correctly identify 70% of high credit risk.  Following is the imbalanced classification report.
 
 ![](/Resources/Undersampling.png)
