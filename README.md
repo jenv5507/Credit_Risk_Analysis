@@ -39,3 +39,4 @@ Outcome of each model:
 ![](/Resources/Adaboost.png)
 
 ## <b>Summary</b>
+After reviewing each model, the Easy Ensemble Classifer appears to the be the model.  It was the most accurate coming in at 92.54% of the time and the overall F1 score was 
