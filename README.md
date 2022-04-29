@@ -37,3 +37,5 @@ Outcome of each model:
    - The model using the easy ensemble classifier was accurate 92.54% of the time. The model had a precision score of 7% for high risk credit risk and was able to correctly identify 91% of high credit risk.  Following is the imbalanced classification report.
 
 ![](/Resources/Adaboost.png)
+
+## <b>Summary</b>
