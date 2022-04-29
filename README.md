@@ -39,4 +39,4 @@ Outcome of each model:
 ![](/Resources/Adaboost.png)
 
 ## <b>Summary</b>
-After reviewing each model, the Easy Ensemble Classifer appears to the be the model.  It was the most accurate coming in at 92.54% of the time and the overall F1 score was 
+After reviewing each model, the Easy Ensemble Classifer appears to the be the best model for predicting high risk.  It was the most accurate coming in at 92.54% accuracy and the overall F1 score was 97% which was definately the highest.  Due to the low data points of actual high risk, one has to be aware of the unbalanced data when analyzing machine models.   
